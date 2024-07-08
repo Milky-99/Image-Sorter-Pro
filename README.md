@@ -2,6 +2,10 @@
 
 Image Sorter Pro is a powerful and user-friendly desktop application for organizing and sorting image files based on various criteria such as dimensions, aspect ratio, and file type.
 
+
+![Screenshot](3.png)
+
+
 ## Features
 
 - Sort images by exact dimensions, dimension ranges, aspect ratio, or file type
